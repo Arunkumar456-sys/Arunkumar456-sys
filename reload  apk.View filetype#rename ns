@@ -21,8 +21,13 @@ if(indexpath.row==1)
 Set NewUrl.listView&@json.test;
 enable task_reload User@insight New;
 }
-//:Use a new template with src method.
-@interface view();
+//:Assign new project methods including zipfile'
+request newUrl fileEntity including nested loop tracker,The remaining parser will be initiated through local entity.
+#import preUser.h;
+@interface preUser();
 {
-"..
-
+get apk.View filetype#rename host;
+imgVw.tracker@loginBtn.User1;
+textfield.Usertype#rename APK;
+}
+//: 
