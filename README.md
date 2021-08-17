@@ -30,4 +30,4 @@ UIStoryboard *sr=[UIStoryboard storyboardWithName:@"Main" bundle:nil];
 SethttpMethod.reviewUrl&@"..
 }
 
-    
+//: retention method entity will be initiated as above, retrack the required doc instead of User interface.
