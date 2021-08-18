@@ -29,5 +29,4 @@ UIStoryboard *sr=[UIStoryboard storyboardWithName:@"Main" bundle:nil];
 //: tag a newUrl req with ref type.
 SethttpMethod.reviewUrl&@"..
 }
-
-//: retention method entity will be initiated as above, retrack the required doc instead of User interface.
+//: 
