@@ -29,4 +29,4 @@ UIStoryboard *sr=[UIStoryboard storyboardWithName:@"Main" bundle:nil];
 //: tag a newUrl req with ref type.
 SethttpMethod.reviewUrl&@"..
 }
-//: 
+//: enable the newUser instead of local proxy.
